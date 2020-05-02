@@ -7,6 +7,17 @@ Link para o meu GitHub: [Ricardo](https://github.com/RicardoAriel09/)
 
 Suportada na versão 3 de python.
 
+Para instalar:
+
+```console
+python3 -m venv .venv
+source .venv/Script/activate
+pip install -r requirements-dev.txt
+```
+Para conferir a qualidade do código:
+```console
+flake8
+``` 
 Tópicos a serem abordados:
 1. Git
 2. Virtualenv
