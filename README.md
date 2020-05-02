@@ -5,6 +5,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto.
 
 Link para o meu GitHub: [Ricardo](https://github.com/RicardoAriel09/)
 
+[![Build Status](https://travis-ci.com/RicardoAriel09/libpythonpro.svg?branch=master)](https://travis-ci.com/RicardoAriel09/libpythonpro)
+
 Suportada na versão 3 de python.
 
 Para instalar:
